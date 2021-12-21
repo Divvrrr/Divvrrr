@@ -8,6 +8,7 @@ int main()
 	printf("Enter second number:\n");
 	scanf_s("%d", &num2);
 
+	printf("\n");
 	int j = 1;
 	for (int i = 1; i< num2; i++)
 	{
